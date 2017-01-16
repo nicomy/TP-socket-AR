@@ -1,5 +1,5 @@
 package serveurMono;
 
-public class client {
+public class Serveur {
 
 }
